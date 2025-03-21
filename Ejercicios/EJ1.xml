@@ -1,0 +1,25 @@
+<!-- 
+    Nombre: Diego Antoranz 
+    Curso: ASIR1 
+    Fecha: 19/03/2025 
+    Ejercicio: Ciudades
+-->
+
+<Ciudades>
+    <!-- Defino una ciudad (Asia) -->
+    <Ciudad continente="Asia">
+        <Nombre>Nueva Delhi</Nombre>
+        <País>India</País>
+    </Ciudad>
+
+    <!-- Defino una ciudad (europa) -->
+    <Ciudad continente="Europa">
+        <Nombre>Lisboa</Nombre>
+        <País>Portugal</País>
+    </Ciudad>
+
+    <!-- Defino una ciudad (africa) -->
+    <Ciudad continente="África">
+        <Nombre>El Cairo</Nombre>
+        <País>
+

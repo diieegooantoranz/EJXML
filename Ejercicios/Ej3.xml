@@ -1,0 +1,31 @@
+<!-- 
+    Nombre: Diego Antoranz 
+    Curso: ASIR1 
+    Fecha: 19/03/2025 
+    Ejercicio: Lista de Libros 
+-->
+
+<Libros>
+    <!-- Cada 'Libro' tiene atributos para el título, autor y año de publicación -->
+
+    <!-- Libro: 1984 -->
+    <Libro 
+        titulo="1984" 
+        autor="George Orwell" 
+        año="1949"
+    />
+
+    <!-- Libro: Cien años de soledad -->
+    <Libro 
+        titulo="Cien años de soledad" 
+        autor="Gabriel García Márquez" 
+        año="1967"
+    />
+
+    <!-- Libro: El Señor de los Anillos -->
+    <Libro 
+        titulo="El Señor de los Anillos" 
+        autor="J.R.R. Tolkien" 
+        año="1954"
+    />
+</Libros>

@@ -1,0 +1,37 @@
+<!-- 
+    Nombre: Diego Antoranz 
+    Curso: ASIR1 
+    Fecha: 19/03/2025 
+    Ejercicio: Empleados de una Empresa 
+-->
+
+<Empleados>
+    <!-- Cada 'Empleado' representa a una persona dentro de la empresa con sus datos -->
+
+    <!-- Empleado del departamento de Ventas -->
+    <Empleado>
+        <Nombre>Ana</Nombre>
+        <Apellido>García</Apellido>
+        <Edad>30</Edad>
+        <Departamento>Ventas</Departamento>
+        <Cargo>Ejecutivo de ventas</Cargo>
+    </Empleado>
+
+    <!-- Empleado del departamento de Finanzas -->
+    <Empleado>
+        <Nombre>Luis</Nombre>
+        <Apellido>Rodríguez</Apellido>
+        <Edad>45</Edad>
+        <Departamento>Finanzas</Departamento>
+        <Cargo>Analista financiero</Cargo>
+    </Empleado>
+
+    <!-- Empleado del departamento de Marketing -->
+    <Empleado>
+        <Nombre>María</Nombre>
+        <Apellido>López</Apellido>
+        <Edad>28</Edad>
+        <Departamento>Marketing</Departamento>
+        <Cargo>Especialista en redes sociales</Cargo>
+    </Empleado>
+</Empleados>
